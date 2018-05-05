@@ -1,5 +1,6 @@
 baseurl = "http://example.com/"
 theme = "hugo-geo"
+themesdir = "../.."
 relativeURLs = false
 languageCode = "en-us"
 title = "My New Hugo Site"
@@ -19,7 +20,7 @@ paginate = 5
 
 	email = "alexurquhart@gmail.com"
 
-	profilepic = "img/abhi.jpg"
+	profilepic = "img/profile.png"
 	
 	title = "MY NAME"
 	subtitle = "MY HUGO BLOG"
