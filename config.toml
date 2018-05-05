@@ -1,4 +1,4 @@
-baseurl = "http://example.com/"
+baseurl = "https://augaonkar.github.io/"
 theme = "hugo-geo"
 relativeURLs = false
 languageCode = "en-us"
@@ -17,7 +17,7 @@ paginate = 5
 	
 	analytics = "code-here"
 
-	email = "alexurquhart@gmail.com"
+	email = "abhilash410@gmail.com"
 
 	profilepic = "img/abhi.jpg"
 	
@@ -28,16 +28,15 @@ paginate = 5
 	# Each of these are optional
 	[[params.socialbuttons]]
 	faicon = "github"
-	url = "https://github.com/alexurquhart"
+	url = "https://github.com/augaonkar"
 	[[params.socialbuttons]]
 	faicon = "twitter"
-	url = "https://twitter.com/alexanderurq"
+	url = "https://twitter.com/augaonkar"
 	[[params.socialbuttons]]
 	faicon = "linkedin"
-	url = "https://linkedin.com"
+	url = "https://linkedin.com/in/abhiugaonkar"
 	[[params.socialbuttons]]
-	faicon = "google-plus"
-	url = "https://plus.google.com/+YourID"
+
 
 	[[params.navlinks]]
 	name = "About"
