@@ -8,6 +8,6 @@ features = ["blog", "responsive", "bootstrap"]
 min_version= 0.14
 
 [author]
-    name = "Alex Urquhart"
-    email = "alexurquhart@gmail.com"
-    url = "https://alexurquhart.com"
+    name = "Abhilash Ugaonkar"
+    email = "abhilash410@gmail.com"
+    url = "https://augaonkar.github.io"
