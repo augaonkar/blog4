@@ -53,7 +53,7 @@ paginate = 5
 	
 	[[params.navlinks]]
 	name = "Tutorials"
-	url = "tutorial/"
+	url = "tutorials/"
 ```
 
 ##### The Spinning Globe

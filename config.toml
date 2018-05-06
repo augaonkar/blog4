@@ -8,8 +8,7 @@ paginate = 5
 
 [taxonomies]
 	tag = "tags"
-	tutorial = "tutorials"
-
+	
 [params]
 	showglobe = true
 
@@ -48,4 +47,4 @@ paginate = 5
 	
 	[[params.navlinks]]
 	name = "Tutorials"
-	url = "tutorials/"
+	url =  "tutorials/"
