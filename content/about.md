@@ -1,7 +1,8 @@
 ---
-title: "About Author"
+title: "About"
 date: 2018-05-05T23:33:17-07:00
 draft: false
+menu: "mainmenu"
 ---
 
 ***
