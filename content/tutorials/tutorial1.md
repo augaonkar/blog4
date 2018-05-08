@@ -2,7 +2,7 @@
 title: "AWS Solutions Architect"
 date: 2018-05-05T17:01:06-07:00
 draft: false
-menu: "mainmenu"
+
 ---
 
 > This AWS Tutorial Video will give you an introduction to AWS and its domains

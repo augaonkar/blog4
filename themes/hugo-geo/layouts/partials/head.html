@@ -41,3 +41,15 @@
     <![endif]-->
 </head>
 <body>
+    <header>
+        <h1> </h1>
+    </header>
+    
+    <hr>
+    <a href="https://augaonkar.github.io">{{ .Site.Title}}</a>
+    {{range .Site.Menus.mainmenu}}
+    <a href="{{ .URL }}"> &emsp;{{ .Name }}</a>
+    {{ end}}
+    <hr>
+
+</ul>

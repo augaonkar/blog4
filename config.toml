@@ -4,6 +4,7 @@ relativeURLs = false
 languageCode = "en-us"
 title = "Abhilash-Blog"
 disqusShortname = "shortcode-here"
+sectionPagesMenu = "mainmenu"
 paginate = 5
 
 [taxonomies]

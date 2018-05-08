@@ -2,7 +2,7 @@
 title: "Amazon EC2"
 date: 2018-04-05T12:46:46-07:00
 draft: false
-menu: "mainmenu"
+
 ---
 
 > Secure and resizable compute capacity in the cloud. Launch applications when needed without upfront commitments.
